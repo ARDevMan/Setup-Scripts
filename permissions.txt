@@ -1,0 +1,1 @@
+\Registry\Machine\System\CurrentControlSet\services\NSI [1 5 7 17]
